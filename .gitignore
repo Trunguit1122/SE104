@@ -1,0 +1,6 @@
+# Bỏ qua thư mục môi trường ảo
+venv/
+__pycache__/
+
+# Bỏ qua file cấu hình cá nhân
+.env
